@@ -1,9 +1,9 @@
-<h1 align = "center">
-  <a href = "https://git.io/typing.svg">
-    <img src = "https://readme-typing-svg.herokuapp.com/?lines=This+is+Mudaliar+Saurabh!!;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=25">
-    </a>
-  </h1>
-  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?  lines=Hello+World!+I'm+Saurabh+Mudaliar;Passionate+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A&center=true&size=25">
+  </a>
+</h1>
+
 
 
 ## Skills
@@ -12,7 +12,7 @@
 <p align = "left">
 <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height = "30px">
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height = "30px">
-<img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height = "30px">
+<img src = "https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height = "30px">
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height = "30px">
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height = "30px">
 <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height = "30px">
@@ -20,7 +20,7 @@
   
  #### Libraries and Frameworks
 <p align = "left">
-<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height = "30px">
+<img src = "https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" height = "30px">
 <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height = "30px">
 <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height = "30px">
 <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white", height = "30px">  
@@ -32,6 +32,12 @@
 <img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height = "30px">
 </p>
 
+#### Artificial Intelligence
+<p align = "left">
+<img src = "https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" height = "30px">
+<img src = "https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" height = "30px">
+<img src = "https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" height = "30px">
+</p>
 
 ## Connect with me on:
 <p align = "left">
